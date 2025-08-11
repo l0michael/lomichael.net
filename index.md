@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Welcome
+title: About 
 ---
-# Hello!
-This is my personal site built with Jekyll and hosted on Github Pages
+Hello, welcome to my blog!
