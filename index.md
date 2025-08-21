@@ -1,9 +1,7 @@
 ---
-layout: home
-title: Home 
+layout: home 
+title: About 
 ---
-Hi, I'm Michael Lo!
+I'm Michael Lo, a [Master's student](https://omscs.gatech.edu/) of the [College of Computing](https://www.cc.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/). I currently work as a freelance security researcher, earning bug bounties and disclosing zero-day vulnerabilities.
 
-I'm a security researcher currently working as an independent bug bounty hunter and zero-day vulnerability researcher/exploit developer.
-
-I like playing CTFs, mind sports, and sports in general.
+I like [participating in CTFs](https://ctftime.org/user/235163) and I specialize in binary exploitation (pwn) and reverse engineering (rev). 
