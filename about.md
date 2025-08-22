@@ -8,9 +8,9 @@ I like participating in Capture-the-Flag competitions (CTFs) and am open to join
 
 Outside of work, I enjoy reading, games, sports, and time with my family and church.
 
-email: lomichael at lomichael dot net
-github: [@lomichael](https://www.github.com/lomichael)
-discord: @lomichael.net
-x/twitter: [@l0michael](https://x.com/l0michael)
-ctftime: [@lomichael](https://ctftime.org/user/235163) 
+- email: lomichael at lomichael dot net
+- github: [@lomichael](https://www.github.com/lomichael)
+- discord: @lomichael.net
+- x/twitter: [@l0michael](https://x.com/l0michael)
+- ctftime: [@lomichael](https://ctftime.org/user/235163) 
 
