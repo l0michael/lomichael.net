@@ -10,8 +10,8 @@ Outside of work, I enjoy reading, games, sports, and time with my family and chu
 
 Online, I go by "10g0s".
 - email: 10g0s at lomichael dot net
-- github: [@10g0s](https://www.github.com/l0michael)
-- x/twitter: [@10g0s](https://x.com/l0michael)
+- github: [@10g0s](https://www.github.com/10g0s)
+- x/twitter: [@10g0s](https://x.com/10g0s)
 - discord: @10g0s
 - ctftime: [@10g0s](https://ctftime.org/user/235163) 
 
