@@ -11,7 +11,7 @@ Outside of work, I enjoy reading books, board and card games, racket sports, and
 # Links 
 - email: michael at lomichael dot net
 - github: [@lomichael](https://www.github.com/lomichael)
-- x/twitter: [@10g0s](https://x.com/10g0s)
-- discord: @10g0s
+- x/twitter: [@lomichael_net](https://x.com/lomichael_net)
+- discord: @lomichael.net
 - ctftime: [@10g0s](https://ctftime.org/user/235163) 
 
