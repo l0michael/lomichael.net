@@ -1,9 +1,9 @@
 ---
-title: "CSAW CTF Quals' 2025: Mooneys Bookstore"
+title: "CSAW CTF Quals' 2025 Writeup"
 permalink: /csaw-ctf-quals-2025
 ---
 
-# Mooneys Bookstore
+# Writeup for "Mooneys Bookstore" Challenge
 We are given a pwn challenge binary, `overflow_me`.
 
 First, we look at the file's info with `file overflow_me` and see we are working with an x86-64 ELF file that hasn't been stripped:
