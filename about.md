@@ -2,15 +2,15 @@
 title: About
 ---
 
-I'm Michael Lo, a [Master's student](https://omscs.gatech.edu/) of the [College of Computing](https://www.cc.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/). I currently work as a freelance security researcher, earning bug bounties and disclosing zero-day vulnerabilities.
+I'm Michael Lo, a [Master's student](https://omscs.gatech.edu/) of the [College of Computing](https://www.cc.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/). I currently work as an independent researcher, focused on software security and AI safety. If you are interested in working together, please feel free to contact me.
 
-I like participating in Capture-the-Flag competitions (CTFs) and am open to joining a team :). I specialize in binary exploitation (pwn) and reverse engineering (rev).
+I enjoy participating in Capture-the-Flag competitions (CTFs) and currently compete with [GreyHat @ GT](https://greyhat.gatech.edu). I specialize in binary exploitation (pwn) and reverse engineering (rev).
 
-Outside of work, I enjoy reading, games, sports, and time with my family and church.
+Outside of work, I enjoy reading books, board and card games, racket sports, and time with my family and church.
 
-Online, I go by "10g0s".
-- email: 10g0s at lomichael dot net
-- github: [@10g0s](https://www.github.com/10g0s)
+# Links 
+- email: michael at lomichael dot net
+- github: [@lomichael](https://www.github.com/lomichael)
 - x/twitter: [@10g0s](https://x.com/10g0s)
 - discord: @10g0s
 - ctftime: [@10g0s](https://ctftime.org/user/235163) 
