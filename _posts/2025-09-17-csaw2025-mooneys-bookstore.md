@@ -35,7 +35,7 @@ Your favorite book waits for you. Tell me its address
 
 Since we do not know what address to provide, we analyze the binary in Ghidra to see what is going on.
 
-The main function decompiled by Ghidra looks like:
+The `main()` function decompiled by Ghidra looks like:
 ```C
 undefined8 main(void)
 
@@ -104,7 +104,7 @@ void get_input(void)
 }
 ```
 
-Immediately, notice the line `gets(local_58)`, which is a common vulnerability, allowing unbounded input. Abusing this, we can overflow the buffer `local_58`, writing into other parts of the stack. There is no obvious way to get the flag in the decompiled `get_input()` function, but we know that write into the return address using the stack buffer overflow. We can look in the "Functions" section of the Symbol Tree in Ghidra and see a `get_flag()` function that cats the flag for us:
+Immediately, notice the line `gets(local_58)`, which is a common vulnerability, allowing unbounded input. Abusing this, we can overflow the buffer `local_58`, writing into other parts of the stack. There is no obvious way to print the flag in the decompiled `get_input()` function, but we know that we can write into the return address using the stack buffer overflow vulnerability. We can look in the "Functions" section of the Symbol Tree in Ghidra and see a `get_flag()` function that `cat`s the flag for us:
 ```C
 
 void get_flag(void)
