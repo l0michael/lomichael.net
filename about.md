@@ -2,7 +2,7 @@
 title: About
 ---
 
-![Michael Lo](/assets/images/profile.jpg)
+<img src="/assets/images/profile.jpg" width="160" height="160" style="display:block;margin:0 auto 1rem;border-radius:50%;object-fit:cover;">
 
 I am an independent researcher. I'm interested in working to ensure current and future systems are beneficial to humanity.
 
@@ -12,5 +12,5 @@ I enjoy participating in Capture-the-Flag competitions (CTFs) and occassionally 
 
 Outside of work, I enjoy reading books, board and card games, racket sports, and time with my family and church.
 
-[Email](mailto:michael@lomichael.com) | [Twitter](https://twitter.com/lomichael_net) | [GitHub](https://github.com/lomichael) | [CV](/assets/pdfs/resume.pdf)
+[Email](mailto:michael@lomichael.net) | [Twitter](https://twitter.com/lomichael_net) | [GitHub](https://github.com/lomichael) | [CV](/assets/pdfs/resume.pdf)
 
