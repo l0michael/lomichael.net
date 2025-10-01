@@ -12,5 +12,5 @@ I enjoy participating in Capture-the-Flag competitions (CTFs) and occassionally 
 
 Outside of work, I enjoy reading books, board and card games, racket sports, and time with my family and church.
 
-[Email](mailto:michael@lomichael.net) | [Twitter](https://twitter.com/lomichael_net) | [GitHub](https://github.com/lomichael) | [CV](/assets/pdfs/resume.pdf)
+[Email](mailto:michael@lomichael.net) \| [Twitter](https://twitter.com/lomichael_net) \| [GitHub](https://github.com/lomichael) \| [CV](/assets/pdfs/resume.pdf)
 
